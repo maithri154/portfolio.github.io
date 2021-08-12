@@ -1,0 +1,69 @@
+.top-section{
+	text-align:center;
+	background-color:#212529;
+	color:#ffffff;
+	padding-top:120px;
+	padding-bottom:120px;
+}
+.title{
+	margin-top:50px;
+}
+body{
+	margin:0;
+}
+#name{
+	margin:0;
+	font-size:45px;
+	font-family:merriweather;
+	
+}
+p{
+	font-size:25px;
+	font-family:montserrat;
+}
+.body-div{
+	margin:50px;
+}
+#avatar{
+	width:10%;
+}
+.skill-section{
+	text-align:center;
+}
+.skills-row{
+	width:50%;
+	margin:100px auto 100px auto;
+	line-height:2;
+	font-family:Libre Baskerville;
+	text-align:left;
+}
+#skill-header{
+	font-size:45px;
+	color:#DA7F8F;
+}
+#python-icon{
+	width:15%;
+	float:right;
+}
+#c-icon{
+	width:15%;
+	float:left;
+}
+#css-icon{
+	width:15%;
+	float:right;
+}
+#html-icon{
+	width:15%;
+	float:left;
+}
+.skill-para{
+	margin:0;
+	text-align:left;
+}
+.skill-c{
+	text-align:left;
+}
+body{
+	background-color:#D7B4F3;
+}
